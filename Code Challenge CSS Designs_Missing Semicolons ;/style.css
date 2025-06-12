@@ -1,0 +1,39 @@
+h3 {
+  text-align: center;
+}
+
+.tips {
+  border-radius: 5px;
+  border: 3px solid black;
+  padding: 5%;
+  width: 80%;
+  margin: 5% auto;
+  text-align: justify;
+}
+
+#one {
+  background-color: rgb(239, 217, 202);
+  font-family: "Palatino";
+	font-size: 18px;
+}
+
+#two {
+  background-color: rgb(253, 77, 63);
+  font-family: "Verdana";
+  font-style: italic;
+  line-height: 20px;
+}
+
+#three {
+  background-color: rgb(109, 240, 194);
+  font-family: "Courier";
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#four {
+  background-color: rgb(255, 199, 64);
+  font-family: "Arial";
+  font-variant: small-caps;
+	text-decoration: underline;
+}
